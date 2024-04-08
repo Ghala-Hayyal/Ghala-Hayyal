@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghala Hayyal
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Programming for Data Science 
+- 🌱 I’m currently learning Microsoft Power BI 
 - 📫 How to reach me ...GhalaHayyal@gmail.com
 
 <!---
